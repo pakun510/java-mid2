@@ -4,6 +4,7 @@ import generic.animal.Animal;
 import generic.animal.Cat;
 import generic.animal.Dog;
 
+
 public class AnimalMain1 {
 
     public static void main(String[] args) {
@@ -21,5 +22,6 @@ public class AnimalMain1 {
         catBox.set(cat);
         Cat findCat = catBox.get();
         System.out.println("findCat = " + findCat);
+
     }
 }
