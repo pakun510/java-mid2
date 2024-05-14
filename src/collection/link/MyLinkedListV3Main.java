@@ -15,5 +15,6 @@ public class MyLinkedListV3Main {
         integerList.add(3);
         Integer integer = integerList.get(0);
         System.out.println("integer = " + integer);
+
     }
 }
